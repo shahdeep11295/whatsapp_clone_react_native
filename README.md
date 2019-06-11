@@ -1,5 +1,3 @@
-<p align="center"><a href="https://vuejs.org" target="_blank" rel="noopener noreferrer"><img width="100" src="https://i.ibb.co/DKKn11n/clone-copy-document.png" alt="My Reads"></a></p>
-
 <h1 align="center">WhatsApp Clone Using React Native</h1>
 
 <p align="center">
@@ -50,7 +48,7 @@ export const config = {
           "type" : "send"
         },
         "-LJHKFv3DtehjTsPivrt" : {
-          "message" : "Ça va et toi? :)"
+          "message" : "I'm fine and you? :)"
         },
         "-LJHQQy12wRyzRp9q_e8" : {
           "message" : "I'm also fine, Hi.. Let's go out today.",
@@ -81,11 +79,11 @@ export const config = {
           "type" : "receive"
         },
         "-LJHpYsPW-X-4VH7_6im" : {
-          "message" : "Ola filipe",
+          "message" : "I'm fine and you?",
           "type" : "send"
         },
         "-LJHpdGQoX4B4T5dfQbh" : {
-          "message" : "Tudo bem?",
+          "message" : "All right?",
           "type" : "send"
         }
       }
@@ -94,54 +92,51 @@ export const config = {
   "user_conversations" : {
     "ZmlsaXBlbmF0YW5hZWwxQGxpdmUuY29t" : {
       "anVsaWFuYUBleGFtcGxlLmNvbQ==" : {
-        "email" : "juliana@example.com",
+        "email" : "sh@example.com",
         "lastMessage" : "I'm leaving home now",
-        "name" : "Juliana Freitas"
+        "name" : "Deep Shah"
       }
     },
 	"anVsaWFuYUBleGFtcGxlLmNvbQ==" : {
       "ZmlsaXBlbmF0YW5hZWwxQGxpdmUuY29t" : {
-        "email" : "filipenatanael1@live.com",
+        "email" : "sha@example.com",
         "lastMessage" : "I'm leaving home now",
-        "name" : "Filipe Natanael"
+        "name" : "Bhavya Shah"
       }
     }
   },
   "users" : {
     "ZmlsaXBlbmF0YW5hZWwxQGxpdmUuY29t" : {
       "-LITnhW1yLKAwwvAyPJG" : {
-        "name" : "Filipe Natanael"
+        "name" : "Bhavya Shah"
       }
     },
     "anVsaWFuYUBleGFtcGxlLmNvbQ==": {
       "-L2NfSXjEWlBdxICeLGz" : {
-        "name" : "Juliana Freitas"
+        "name" : "Deep Shah"
       }
     },
 	"dG9ueXN0YXJrQGV4ZW1wbGUuY29t==": {
       "-L2NfSXjEWlBdxICeLG2" : {
-        "name" : "Tony Stark"
+        "name" : "Mohit"
       }
     }
   },
   "users_of_contacts" : {
     "ZmlsaXBlbmF0YW5hZWwxQGxpdmUuY29t": {
       "-LIYrkTkJ28REbAhD0Xz" : {
-        "email" : "juliana@example.com",
-        "name" : "Juliana Freitas",
-        "profileImage" : "https://bootdey.com/img/Content/avatar/avatar5.png"
+        "email" : "sh@example.com",
+        "name" : "Deep Shah"
       },
 	  "-LIYrkTkJ28REbAhD0X5" : {
-        "email" : "tonystark@exemple.com",
-        "name" : "Tony Stark",
-        "profileImage" : "https://bootdey.com/img/Content/avatar/avatar5.png"
+        "email" : "shah@exemple.com",
+        "name" : "Mohit"
       }
     },
     "anVsaWFuYUBleGFtcGxlLmNvbQ==": {
       "-LJHjLeuvZrC-GTIEL_3" : {
-        "email" : "filipenatanael1@live.com",
-        "name" : "Filipe Natanael",
-        "profileImage" : "https://bootdey.com/img/Content/avatar/avatar5.png"
+        "email" : "sha@example.com",
+        "name" : "Bhavya Shah"
       }
     }
   }
